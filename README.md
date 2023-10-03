@@ -11,9 +11,9 @@ This project involves the creation of a real-time sports betting odds platform u
 
 - <b>Kafka</b> 
 - <b>Spark</b>
-- <b>AWS EC2/b> 
+- <b>AWS EC2</b> 
 - <b>AWS S3</b>
-- <b>AWS Crawler and Glue/b> 
+- <b>AWS Crawler and Glue</b> 
 - <b>AWS Athena</b>
 
 
